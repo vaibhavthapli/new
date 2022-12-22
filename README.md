@@ -10,4 +10,4 @@ Resnet 95% accuracy , 99% val
 accuracy
 0.3 %loss,
 0.
-<img src="slide1.jpg">
+<img src="Slide1.jpg">
